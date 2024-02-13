@@ -57,7 +57,6 @@ h3{
     color: dimgrey;
     letter-spacing: 2px;
 }
-
 section{
     display: grid;
     grid-template-columns: repeat(4,1fr);
